@@ -3,3 +3,5 @@
 
 - ASUS Rog
 - Intel® Core™ i9 14900K
+
+## Periferiche
